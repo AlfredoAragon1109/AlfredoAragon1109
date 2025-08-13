@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Alfredo Aragón
 
-Soy economista especializado en análisis de datos, ciencia de datos y gestión de proyectos. A lo largo de mi carrera, he trabajado en sectores como seguridad, servicios y marketing, liderando iniciativas que combinan estrategia, tecnología y un enfoque basado en resultados 📊🚀
+Soy economista especializado en análisis de datos, ciencia de datos y gestión de proyectos. A lo largo de mi carrera, he trabajado en sectores como banca, seguridad, servicios y marketing, liderando iniciativas que combinan estrategia, tecnología y un enfoque basado en resultados 📊🚀
 
 ## 🧠 ¿Qué me apasiona?
 
