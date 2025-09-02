@@ -1,6 +1,13 @@
 # 👋 ¡Hola! Soy Alfredo Aragón
 
-Soy economista especializado en análisis de datos, ciencia de datos y gestión de proyectos. A lo largo de mi carrera, he trabajado en sectores como banca, seguridad, servicios y marketing, liderando iniciativas que combinan estrategia, tecnología y un enfoque basado en resultados 📊🚀
+Economista con 6 años de experiencia en análisis de datos, modelado estadístico y optimización de procesos empresariales. Especializado en transformar información compleja en insights accionables que fortalecen la toma de decisiones estratégicas y generan crecimiento sostenible.
+
+🔹 Experto en modelos predictivos y econométricos con alta precisión de pronóstico.
+🔹 Desarrollo de dashboards interactivos en Power BI/Tableau para el seguimiento de KPI clave.
+🔹 Implementación de estrategias de eficiencia operativa con impacto directo en la productividad y calidad.
+🔹 Experiencia en proyectos de data-driven strategy y mejora continua en entornos corporativos.
+
+Mi propósito es impulsar la innovación empresarial mediante analítica avanzada, inteligencia de negocios y optimización de procesos, contribuyendo al éxito organizacional a través de decisiones informadas y estratégicas.
 
 ## 🧠 ¿Qué me apasiona?
 
